@@ -29,10 +29,10 @@ quizzler/<br>
       <li><strong>amount=30</strong> → Number of questions to fetch</li>
       <li><strong>type=boolean</strong> → Only true/false questions</li>
     </ul>
-  </li>
+  </li><br>
   <p><strong>📥 Sample API Request</strong><br><br>
     https://opentdb.com/api.php?amount=30&amp;type=boolean
-  </p><br>
+  </p><br><br>
   <p><strong>📤 Sample API Response</strong><br><br>
     {<br>
       "response_code": 0,<br>
@@ -48,7 +48,7 @@ quizzler/<br>
         ...<br>
       ]<br>
     }<br>
-  </p>
+  </p><br>
   <li><strong>📚 Documentation</strong> <a href="https://opentdb.com/api_config.php" target="_blank">https://opentdb.com/api_config.php</a></li>
 </ul>
 
