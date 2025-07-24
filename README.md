@@ -1,6 +1,6 @@
 # 🧠 Quizzler-GUI-Quiz-App
 <h2>🔎 Description:</h2>
-<p>Quizzler is an interactive quiz game built using Python and Tkinter. It fetches true/false questions from the Open Trivia Database API and presents them to the user in a clean graphical interface. The player can answer each question by clicking True or False buttons, and the app gives immediate visual feedback (green for correct, red for incorrect) before loading the next question.</p><hr>
+<p>Quizzler is an interactive quiz game built using Python and Tkinter. It fetches true/false questions from the Open Trivia Database API and presents them to the user in a clean graphical interface. The player can answer each question by clicking True or False buttons, and the app gives immediate visual feedback (green for correct, red for incorrect) before loading the next question.</p>
 <h3>🧱 Modules and Libraries Used:</h3>
 <ol>
   <li><strong>tkinter :</strong> To create the graphical user interface (GUI), including buttons, labels, canvas, and layout.</li>
