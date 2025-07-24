@@ -30,11 +30,11 @@ quizzler/<br>
       <li><strong>type=boolean</strong> → Only true/false questions</li>
     </ul>
   </li><br>
-  <p><strong>📥 Sample API Request</strong><br><br>
-    https://opentdb.com/api.php?amount=30&amp;type=boolean
+  <li><strong>📥 Sample API Request</strong></li><br><br>
+   <p> https://opentdb.com/api.php?amount=30&amp;type=boolean
   </p><br><br>
-  <p><strong>📤 Sample API Response</strong><br><br>
-    {<br>
+  <li><strong>📤 Sample API Response</strong></li><br><br>
+  <p> {<br>
       "response_code": 0,<br>
       "results": [<br>
         {<br>
